@@ -1,3 +1,4 @@
 # git-learn
 this is for leaning the git<br>
-i have learned from here
+i have learned from here<br>
+author:mohd kirdar
